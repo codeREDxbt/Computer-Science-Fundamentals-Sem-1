@@ -1,0 +1,31 @@
+# Ignore Word and Office files
+*.docx
+*.xlsx
+*.pptx
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore node modules (if ever used)
+node_modules/
+
+# Ignore Python cache (if ever used)
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS-specific files
+Desktop.ini
+
+# Ignore backup files
+*.bak
+
+# Ignore other unwanted files
+*.swp
